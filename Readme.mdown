@@ -1,9 +1,11 @@
-To-do List controlled Power Plug
+# To-do List controlled Power Plug
 
-48390 Spring 2017 - Physical Computing Studio
-Assignment 02
+## 48390 Spring 2017 - Physical Computing Studio
+## Assignment 02
 
-What if you power plug only turned on only if your to-do list was finished? That means for instance that you could watch your favourite TV serries until you finished your daily task. Or that a parent could keep their high school child from computer games until the homework was done. Annoying, perhaps, but that's what it sometimes takes to finish off unpleasant tasks. And this is what this IOT device - the 'To-do list controlled power plug' does.
+What if your power plug only turned on only if your to-do list was finished? That means, for instance, that you could not watch your favourite TV serries until you finished your daily task. Or that a parent could keep their high school child from computer games until the homework was done. Annoying, perhaps, but that's what it sometimes takes to finish off unpleasant tasks. And this is what this IOT device - the 'To-do list controlled power plug' does.
 
-How it works
+### How it works
+
+The device consists of a raspberry pi 3 controlled power tail switch. The to-do list is created and operated in Wunderlist. The raspberry pi connects to Wunderlist's API to check the list status. When the to-do list is cleared, the raspberry pi turns on the power tail switch. 
 
