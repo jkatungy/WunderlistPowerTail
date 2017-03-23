@@ -11,12 +11,13 @@ The device consists of a raspberry pi 3 controlled power tail switch. The to-do 
 ## Power Tail Switch
 
 The Power Tail Switch spares you the hustle (and risk) of customizing the ordinary power strip to incorporate a relay. A relay controls on/off phases depending on a digital signal input. Power tail switches have inbuilt relays. It has a LED indicator light to show when it's on or off - especially useful as you set up the device.
-![powertailswitch](https://cloud.githubusercontent.com/assets/25465148/24255447/edc45a08-0fbb-11e7-8dc7-aea1863c57dc.jpg)
 
 # What you need
 
 1. Raspberry pi 3
+![raspberry pi 3](https://cloud.githubusercontent.com/assets/25465148/24256591/f3d87660-0fbe-11e7-8805-3f7cfe53826a.jpg)
 2. Powertail switch
+![powertailswitch](https://cloud.githubusercontent.com/assets/25465148/24255447/edc45a08-0fbb-11e7-8dc7-aea1863c57dc.jpg)
 3. 5v power supply
 4. Male to Female Jumper wires
 5. Housing (3d printed or customized project box)
