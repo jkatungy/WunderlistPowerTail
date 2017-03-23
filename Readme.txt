@@ -7,4 +7,3 @@ What if you power plug only turned on only if your to-do list was finished? That
 
 How it works
 
-The device uses 
