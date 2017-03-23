@@ -19,5 +19,7 @@ The Power Tail Switch spares you the hustle (and risk) of customizing the ordina
 2. Powertail switch
 ![powertailswitch](https://cloud.githubusercontent.com/assets/25465148/24255447/edc45a08-0fbb-11e7-8dc7-aea1863c57dc.jpg)
 3. 5v power supply
+![5v powerbank](https://cloud.githubusercontent.com/assets/25465148/24256653/19e1cf32-0fbf-11e7-98ca-00d7c08a675f.jpg)
 4. Male to Female Jumper wires
+![m-f jumperwires](https://cloud.githubusercontent.com/assets/25465148/24256657/1d4cb6a0-0fbf-11e7-937d-e5a945491d41.jpg)
 5. Housing (3d printed or customized project box)
