@@ -1,9 +1,25 @@
-To-do List controlled Power Plug
+## Physical Computing Studio (48390 s2017) Assignment 02
 
-48390 Spring 2017 - Physical Computing Studio
-Assignment 02
+# To-do List controlled Power Plug
 
-What if you power plug only turned on only if your to-do list was finished? That means for instance that you could watch your favourite TV serries until you finished your daily task. Or that a parent could keep their high school child from computer games until the homework was done. Annoying, perhaps, but that's what it sometimes takes to finish off unpleasant tasks. And this is what this IOT device - the 'To-do list controlled power plug' does.
+What if your power plug only turned on only if your to-do list was finished? That means, for instance, that you could not watch your favourite TV serries until you finished your daily task. Or that a parent could keep their high school child from computer games until the homework was done. Annoying, perhaps, but that's what it sometimes takes to finish off unpleasant tasks. Even better, just when the TV serries gets really interesting or when the computer game gets intense, you could turn off the power just by adding a new task to the list!
 
-How it works
+## How it works
 
+The device consists of a raspberry pi 3 controlled power tail switch. The to-do list is created and operated in Wunderlist. The raspberry pi connects to your Wunderlist account's API through a javascript file that checks the list status every 5 seconds. When the to-do list is cleared, the raspberry pi turns on the power tail switch.
+
+## Power Tail Switch
+
+The Power Tail Switch spares you the hustle (and risk) of customizing the ordinary power strip to incorporate a relay. A relay controls on/off phases depending on a digital signal input. Power tail switches have inbuilt relays. It has a LED indicator light to show when it's on or off - especially useful as you set up the device.
+
+# What you need
+
+1. Raspberry pi 3
+![raspberry pi 3](https://cloud.githubusercontent.com/assets/25465148/24256591/f3d87660-0fbe-11e7-8805-3f7cfe53826a.jpg)
+2. Powertail switch
+![powertailswitch](https://cloud.githubusercontent.com/assets/25465148/24255447/edc45a08-0fbb-11e7-8dc7-aea1863c57dc.jpg)
+3. 5v power supply
+![5v powerbank](https://cloud.githubusercontent.com/assets/25465148/24256653/19e1cf32-0fbf-11e7-98ca-00d7c08a675f.jpg)
+4. Male to Female Jumper wires
+![m-f jumperwires](https://cloud.githubusercontent.com/assets/25465148/24256657/1d4cb6a0-0fbf-11e7-937d-e5a945491d41.jpg)
+5. Housing (3d printed or customized project box)
