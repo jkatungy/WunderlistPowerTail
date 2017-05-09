@@ -11,7 +11,7 @@ The device consists of a raspberry pi 3 controlled power tail switch in a specia
 The Power Tail Switch spares you the hustle (and risk) of customizing the ordinary power strip to incorporate a relay. The power tail switch has an inbuilt relay and an LED indicator light to show when it's on or off, which is especially useful as you set up the device.
 
 ## The TO-DO list
-I chose Wunderlist as the 'to-do list app' because it has several endpoints (https://developer.wunderlist.com/documentation/endpoints/task) that allow interaction with app through the API. I wanted to monitor the items within the list, every 5 seconds, such that when the number of items became zero, I would signal the power tail switch to turn on. The list items are stored as object arrays. When the length of the array is zero, the list is cleared. This instruction was coded into the javascript file index file which is run whenever the node packet manager (npm) is run within the folder.
+I chose Wunderlist as the 'to-do list app' because it has [several endpoints](https://developer.wunderlist.com/documentation/endpoints/task) that allow interaction with app through the API. I wanted to monitor the items within the list, every 5 seconds, such that when the number of items became zero, I would signal the power tail switch to turn on. The list items are stored as object arrays. When the length of the array is zero, the list is cleared. This instruction was coded into the javascript file index file which is run whenever the node packet manager (npm) is run within the folder.
 
 # What you need
 
