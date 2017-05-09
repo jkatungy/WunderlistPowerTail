@@ -25,11 +25,11 @@ I chose Wunderlist as the 'to-do list app' because it has [several endpoints](ht
 ![m-f jumperwires](https://cloud.githubusercontent.com/assets/25465148/24256657/1d4cb6a0-0fbf-11e7-937d-e5a945491d41.jpg)
 5. Housing (3d printed or customized project box)
 
-# Wiring
+## Wiring
 
-# Code - refer to index.js
+## Code - refer to index.js
 
-# Images
+## Images
 
-# Video
+## Video
 
