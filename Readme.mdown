@@ -35,8 +35,6 @@ I chose Wunderlist as the 'to-do list app' because it has [several endpoints](ht
 
 ![housing](https://github.com/jkatungy/WunderlistPowerTail/blob/master/Container.jpg?raw=true)
 
-## Code - refer to index.js
-
 ## Images
 
 To do list controlled powertail switch - image 1
