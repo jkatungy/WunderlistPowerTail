@@ -17,39 +17,39 @@ I chose Wunderlist as the 'to-do list app' because it has [several endpoints](ht
 
 1. Raspberry pi 3
 
-![raspberry pi 3](https://cloud.githubusercontent.com/assets/25465148/24256591/f3d87660-0fbe-11e7-8805-3f7cfe53826a.jpg)
+![raspberry pi 3]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/Raspberry%20Pi%203.jpg?raw=true)
 
 2. Powertail switch
 
-![powertailswitch](https://cloud.githubusercontent.com/assets/25465148/24255447/edc45a08-0fbb-11e7-8dc7-aea1863c57dc.jpg)
+![powertailswitch]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/PowerTailSwitch.jpg?raw=true)
 
 3. 5v power supply
 
-![5v powerbank](https://cloud.githubusercontent.com/assets/25465148/24256653/19e1cf32-0fbf-11e7-98ca-00d7c08a675f.jpg)
+![5v powerbank]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/5v%20powerbank.jpg?raw=true)
 
 4. Male to Female Jumper wires
 
-![m-f jumperwires](https://cloud.githubusercontent.com/assets/25465148/24256657/1d4cb6a0-0fbf-11e7-937d-e5a945491d41.jpg)
+![m-f jumperwires]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/M-F%20JumperWires.jpg?raw=true)
 
 5. Housing
 
-![housing](https://github.com/jkatungy/WunderlistPowerTail/blob/master/Container.jpg?raw=true)
+![housing]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/Container.jpg?raw=true)
+
 
 ## Images
 
 To do list controlled powertail switch - image 1
 
-![To do list controlled fan _ 1](https://github.com/jkatungy/WunderlistPowerTail/blob/master/DigitalControlled_PowerSwitch.JPG?raw=true)
+![To do list controlled switch]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/DigitalControlled_PowerSwitch.JPG?raw=true)
 
 To do list controlled powertail switch - image 2
 
-![To do list controlled fan _ 2](https://github.com/jkatungy/WunderlistPowerTail/blob/master/DigitalControlled_PowerSwitch2.JPG?raw=true)
+![To do list controlled switch]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/DigitalControlled_PowerSwitch2.JPG?raw=true)
 
 To do list controlled fan - inside the housing
 
-![To do list controlled fan _ 3](https://github.com/jkatungy/WunderlistPowerTail/blob/master/TodoListControlledFan1.JPG?raw=true)
+![To do list controlled fan _ 3]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/TodoListControlledFan1.JPG?raw=true)
 
 To do list controlled fan - in operation
 
-![To do list controlled fan _ 4](https://github.com/jkatungy/WunderlistPowerTail/blob/master/TodoListControlledFan2.JPG?raw=true)
-
+![To do list controlled fan _ 4]( https://github.com/jkatungy/WunderlistPowerTail/blob/master/wunderlist_images/TodoListControlledFan2.JPG?raw=true)
